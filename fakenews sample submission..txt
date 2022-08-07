@@ -1,0 +1,13 @@
+Sample submission 1 - Demonstrate the Fake News Application in action with your additional news articles. 
+
+
+Sample submission 2 - Train the Fake News Application with your choice of domain news articles – say 
+Climate Action, War in Ukraine etc. 
+
+Sample submission 3 - Automate Fact Collection for the Fake News Application.
+ 
+Sample submission 4 - Create visual dashboards for the Fake News Application. 
+
+Sample submission 5 - Integrate Fake News Detection as an API into your application. 
+
+Sample submission 6 - Build anything else you are passionate about ground up! 
