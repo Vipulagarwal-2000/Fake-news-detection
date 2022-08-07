@@ -8,7 +8,7 @@ The app requires python3 to be installed in the machine as the programming langu
 
 Refer kits from the link below to jumpstart the app
 
-https://kandi.openweaver.com/collections/starterkits/spotting-fake-news
+https://kandi.openweaver.com/collections/machine-learning/fake-news-detection-kit
 
 ### Installation Guide
 
